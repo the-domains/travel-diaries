@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.4318996
+color:
+  saturation: 0.08330654
+  lightness: 0.1002457
+  brandStrength: 0.6003584
+  brandColors:
+    - '#D3C4D0'
+    - '#2F3748'
+    - '#6773AD'
+    - '#060404'
+    - '#7F5346'
+  rhythmicContrast: 0.6966218
+name: Travel Diaries
