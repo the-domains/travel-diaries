@@ -1,9 +1,20 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4318996
 color:
   saturation: 0.08330654
+  brandStrength: 0.03942652
   lightness: 0.1002457
-  brandStrength: 0.6003584
   brandColors:
     - '#D3C4D0'
     - '#2F3748'
@@ -11,4 +22,5 @@ color:
     - '#060404'
     - '#7F5346'
   rhythmicContrast: 0.6966218
+layout_spectrum: 0
 name: Travel Diaries
